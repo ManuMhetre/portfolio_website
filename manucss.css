@@ -1,0 +1,18 @@
+body{
+	background-color: gainsboro;
+	color: black;
+}
+#id1{
+	background-color: navy;
+	color: white;
+}
+table,th,td{
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+.links{
+	position: fixed;
+	top: 1;
+	right: 0;
+}
+
