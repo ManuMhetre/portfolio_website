@@ -11,8 +11,8 @@ table,th,td{
   border-collapse:collapse;
 }
 .links{
-	position: fixed;
-	top: 1;
-	right: 0;
+	position: absolute;
+	top: 10px;
+	right: 9px;
 }
 
